@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samuptech.github.io/reference-du0ybq/sitemap.xml
